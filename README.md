@@ -1,5 +1,5 @@
-# Advancements in Automated Brain Tumor Detection 
-Using Deep Learning on MRI Imagery 
+# Advancements in Automated Brain Tumor Detection Using Deep Learning on MRI Imagery
+ 
 The goal of this thesis is to solve the significant problem of inter-observer variability-induced 
 diagnostic delays by presenting a sophisticated deep learning system for automated brain tumor 
 diagnosis utilizing MRI imagery. Pituitary adenoma, extra-axial meningioma, infiltrative glioma, 
